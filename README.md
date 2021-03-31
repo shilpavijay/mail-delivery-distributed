@@ -1,1 +1,1 @@
-#Mail Delivery - Django, Celery and RabbitMQ
+# Mail Delivery - Django, Celery and RabbitMQ

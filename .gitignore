@@ -1,0 +1,15 @@
+*.pyc
+db.sqlite3
+*.pdf
+requirements.txt
+*/__pycache__
+*/*/__pycache__
+*/migrations
+*/*/migrations
+*.pyc
+db.sqlite3
+send_mail/tests/__pycache__/*
+mail_delivery_distributed/__pycache__/*
+mail_delivery_distributed/__pycache__/settings.cpython-38.pyc
+debug.log
+my.cnf
